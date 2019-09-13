@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Bacon City!</h2></center>
-    ${PREFIX}'s BACON BACON BACON BACON BACON. <br/> BACON SHARK DOO DOO DOO DOO DOO DOO DOO
+    ${PREFIX}'s BACON BACON BACON BACON BACON. <br/> BACON SHARK DOO DOO DOO DOO DOO DOO DOOP
   <!-- END -->
   
   </div>
